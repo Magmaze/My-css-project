@@ -1,0 +1,80 @@
+.one{
+    
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+    position: relative;
+    margin: 0px;
+    ;
+}
+img{
+    height: 150px;
+    width: 100px;
+    float: left;
+    margin-right: 10px;
+    
+}
+h1{
+    display: block;
+background-color: paleturquoise;
+font-size: 3rem;
+margin: 0 px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.second{
+    background-color: lavender;
+    float: left;
+    height: 60%;
+
+}
+.third{
+    background-color: lightblue;
+    height: 60%;
+}
+.fourth{
+    background-color: lightpink;
+    float: left;
+    height: 60%;
+}
+.fifth{
+    background-color: lightseagreen;
+    height: 60%;
+}
+body{
+    border: 5px solid white;
+    margin: 0 px;
+    background-color:black ;
+}
+p{
+    font-size: 1 rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+}
+footer{
+    display: block;
+    position: relative;
+    
+    top: 100px;
+    
+    clear:both;
+    background-color: paleturquoise;
+    border: 5px solid whitesmoke;
+}
+.one{
+    height: 60%;
+}
+.t{
+    color: black;
+    margin:20px;
+    
+}
+.t:hover{
+    color: plum;
+    margin-right: 5px;
+    
+}
+h1{
+    display: inline-block;
+    position: relative;
+    
+}
